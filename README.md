@@ -1,6 +1,6 @@
 # Food Delivery
 
-This project is created as part of the "Build Responsive Real-World Websites with HTML5 and CSS3". Food Delivery is a fictional food delivery service, and this repository serves as a showcase of the skills I've acquired. In this project created a Dcoker image which is integrated through a continuous deployment pipeline (using Jenkins) to automatically deploy the code whenever changes are made, Which is hosted on AWS.
+This project is created as part of the "Build Responsive Real-World Websites with HTML5 and CSS3". Food Delivery is a fictional food delivery service, and this repository serves as a showcase of the skills I've acquired. In this project created a Docker image which is integrated through a continuous deployment pipeline (using Jenkins) to automatically deploy the code whenever changes are made, Which is hosted on AWS.
 
 ## Table of Contents
 

@@ -23,6 +23,9 @@ You can view a live demo of the Food Delivery website [here](https://mohdumair88
 - HTML5
 - CSS3
 - JavaScript
+- Docker
+- Jenkins
+- AWS
 
 ## Features
 
